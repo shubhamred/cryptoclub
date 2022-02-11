@@ -1,0 +1,41 @@
+.Team_box{
+background: linear-gradient(100.1deg, #26336B -1.55%, #0B153C 23.9%, #0B153C 35.05%, #080F2C 50.82%, #060C24 70.06%, #0B153D 84.87%, #1E2B62 102.8%) padding-box, linear-gradient(
+101.06deg, #F05CF5 -20.38%, #19A1EF 54.29%) border-box;
+color: #fff;
+padding: 40px 60px;
+border: 4px solid transparent;
+border-radius: 40px;
+position: relative;
+}
+
+/* .teamStory::after{
+    /* background:url('../../assets/images/CryptoSlut-background/inner-bg.png')repeat-y; 
+    background-color: darkorange;
+    background-size: cover;
+    max-width: 100%;
+    min-height: 80px;
+    position: absolute;
+    top: 1px;
+    z-index: 3;
+    padding-bottom: 30px;
+} */
+.restpos{    position: relative;top: -61px;}
+.teampos{position: relative;top:-64px;}
+.teamStory::after{
+    background:url('../../assets/images/CryptoSlut-background/inner-bg.png')repeat-y; 
+    background-size: cover;
+    width: 100%;
+    height: 80px;
+    position: absolute;
+    bottom: -82px;
+    z-index: -1;
+    padding-bottom: 50px !important;
+}
+
+
+
+/* .Team_box:: */
+
+/* @media only screen and (max-width:768px){
+.girlone{margin-left: 40px;}
+} */

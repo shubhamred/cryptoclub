@@ -1,0 +1,14 @@
+@media  only screen and (max-width:768px){
+    .bulb1{height: 300px !important;}
+    .logo{width: 120px;height: 71px;}
+    .border1{width:470px;}
+    .text-box{padding: 0%;}
+    .traits_heading{font-size: 35px;line-height: 40px;}
+    .box-pera{line-height: 25px;font-size: 18px;}
+    .slider_mintsection {padding: 63px 0 22px !important;}
+    .girlImg1{margin-left: 45px;}
+    .text-white{padding: 0% !important;}
+    .com2Heading{text-align: center;font-size: 33px;padding-top: 0%;}
+    .comHeading{text-align: center;font-size: 33px;padding-top: 0%; margin:0% !important}
+    /* .restbg{width:483px;} */ 
+} 

@@ -1,0 +1,26 @@
+.table_img{background: url('../../assets/images/image.png');background-repeat: no-repeat;background-size: cover;position: relative;top: -88px;}
+.vertical{position: absolute;left: 100px; bottom: 140px;}
+.bubble{margin-right: 10px;width: 88px;}
+.percent {position: relative;left: -98px;top: 40px;font-size:26px;
+    font-weight: 600;}
+.roadmap_content {background: url('../../assets/images/CryptoSlut-background/inner-bg.png');background-repeat: no-repeat;position: relative;top:-35px;}
+.road_map {position: relative;top: 131px;}
+.clubgrowth{position: relative; top: 125px;}
+.get_section{margin-top: 200px!important;}
+.getsection{position: relative;top: 175px;}
+.box-pera{font-weight: 600;}
+.stepper {margin-top: 50px}
+.stepper ul {list-style: none;}
+.stepper ul li{position: relative;padding-bottom: 54px;}
+.stepper ul li img{width:125px;height:125px;margin-right: 20px;}
+.stepper ul li p.desc{font-size:22px;line-height: 20px ;margin-top: 22px;}
+.stepper > ul > li::after{content: ""; position: absolute;bottom: 1px;width: 37px;height: 58px;}
+.stepper > ul > li.step1::after{background: url(../../assets/images/step-RL.png);left: 45px;}
+.stepper > ul > li.step2::after{background: url(../../assets/images/step-LR.png);left: 45px;}
+
+
+.card{padding: 40px 20px !important;display: inline-block !important;min-height: 485px;text-align: center;}
+.card-heading h2{font-size:28px;margin-bottom: 20px;font-weight: bold;}
+.card-text p{font-size: 20px;line-height: 1.2;font-weight: 500;}
+.bartable{position: absolute;z-index: 3;top:-70px;max-width: 100%;}
+

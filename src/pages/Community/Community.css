@@ -1,0 +1,22 @@
+@media only screen and (max-width:768px){
+    .mediumImg{margin-left: 20px;} 
+    .medium{position: relative;top:-30px;}    
+    .girlOpen{position: relative;top:-30px}   
+}
+
+/* .communityStory::after{
+    margin-top: 0% !important; 
+    background:url('../../assets/images/CryptoSlut-background/inner-bg.png')repeat-y;
+    background-size: cover;
+    width: 85%;
+    height: 80px;
+    position: absolute;
+    bottom: -2px;
+    z-index: -1;
+    margin-left: 94px;
+    padding-bottom: 30px;
+  } */
+  .restri_two{ position: relative; top: -57px;}
+  .restri_Community{position: relative;top:-97px;}
+  .space{padding: 50px;}
+  .NFT{position: relative;top:-160px;}
